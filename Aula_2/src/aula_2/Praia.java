@@ -3,7 +3,7 @@ package aula_2;
 public class Praia {
      public String nome; 
 	 public String ceu;
-     public String temperatura;
+     public int temperatura;
      public String mare;
      public String previsao;
      
